@@ -11,6 +11,9 @@ AnimeGet.io scraper with MyAnimeList account integration
 ## Downloads: ##
 https://github.com/hellzerg/haitoku/releases
 
+## Screenshots: ##
+https://github.com/hellzerg/haitoku/blob/master/IMAGES.md
+
 ## Compatibility
 
 .NET Framework 4.5.2
